@@ -22,7 +22,17 @@ A web app that recommends similar movies based on your selected movie. Built usi
 - Git LFS (for handling large `.pkl` and `.csv` files)
 
 ---
+📥 Download Large Files
+These files exceed GitHub's 25MB upload limit. Download from Google Drive:
+### 🔗 Download Large Files
+Some files exceed GitHub’s 25MB limit. Download them from Google Drive:
 
+- [similarity.pkl](https://drive.google.com/file/d/1ZXiwuWjtj098VyFRnF0Nt3ZqgbV7SRYk/view?usp=drive_link)
+
+
+similarity.pkl
+
+tmdb_5000_credits.csv
 ## 📁 Files Included
 
 | File Name               | Description                            |
@@ -60,8 +70,6 @@ streamlit run app.py
 Replace YOUR_API_KEY in app.py:
 
 python
-Copy
-Edit
 api_key = "your_actual_tmdb_api_key"
 📝 Sample Output
 
@@ -77,7 +85,7 @@ TMDb for the API and movie dataset
 
 Vel Tech University – Internship support
 
-Project developed during Tech Mahindra Industrial Internship
+Project developed during AI ML Internship Of Elevate Latbs
 
 📬 Contact
 Kapil Charan
